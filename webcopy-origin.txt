@@ -1,0 +1,64 @@
+Uri: https://1wbapm.life/
+File Name: C:\Downloaded Web Sites\1wbapm.life\index.htm
+Content Type: text/html
+
+Uri: https://1wbapm.life/core-js/3.33.3/minified.js
+File Name: C:\Downloaded Web Sites\1wbapm.life\core-js\3.33.3\minified.js
+Content Type: application/javascript
+
+Uri: https://1wbapm.life/fss/web-app-manifest
+File Name: C:\Downloaded Web Sites\1wbapm.life\fss\web-app-manifest
+Content Type: application/json
+
+Uri: https://1wbapm.life/img/icons/favicon-16x16-darkmode.png
+File Name: C:\Downloaded Web Sites\1wbapm.life\img\icons\favicon-16x16-darkmode.png
+Content Type: image/png
+
+Uri: https://1wbapm.life/img/icons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\1wbapm.life\img\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://1wbapm.life/img/icons/favicon-32x32-darkmode.png
+File Name: C:\Downloaded Web Sites\1wbapm.life\img\icons\favicon-32x32-darkmode.png
+Content Type: image/png
+
+Uri: https://1wbapm.life/img/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\1wbapm.life\img\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://1wbapm.life/img/icons/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\1wbapm.life\img\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://1wbapm.life/img/logo/main/1win-normal.svg
+File Name: C:\Downloaded Web Sites\1wbapm.life\img\logo\main\1win-normal.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/
+File Name: C:\Downloaded Web Sites\1wbapm.life\index-1.htm
+Content Type: 
+
+Uri: https://v1.bundlecdn.com/css/index.aedf85995.css
+File Name: C:\Downloaded Web Sites\1wbapm.life\css\index.aedf85995.css
+Content Type: text/css
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-latin.50a4eaff3.woff2
+File Name: C:\Downloaded Web Sites\1wbapm.life\font\SFNSDisplay-latin.50a4eaff3.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-latin.f09aa5229.woff2
+File Name: C:\Downloaded Web Sites\1wbapm.life\font\SFNSText-latin.f09aa5229.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/js/chunk-common.cd7dd82fe.js
+File Name: C:\Downloaded Web Sites\1wbapm.life\js\chunk-common.cd7dd82fe.js
+Content Type: application/javascript
+
+Uri: https://v1.bundlecdn.com/js/chunk-vendors.b54751333.js
+File Name: C:\Downloaded Web Sites\1wbapm.life\js\chunk-vendors.b54751333.js
+Content Type: application/javascript
+
+Uri: https://v1.bundlecdn.com/js/index.9680bca79.js
+File Name: C:\Downloaded Web Sites\1wbapm.life\js\index.9680bca79.js
+Content Type: application/javascript
+
